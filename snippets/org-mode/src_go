@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: src_go
+# uuid: src_go
+# key: <g
+# --
+#+begin_src go
+$0
+#+end_src

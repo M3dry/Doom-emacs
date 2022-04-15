@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: src_elisp
+# uuid: src_elisp
+# key: <e
+# --
+#+begin_src emacs-lisp
+$0
+#+end_src

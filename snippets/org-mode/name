@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: name
+# uuid: name
+# key: <n
+# --
+#+name: $0
